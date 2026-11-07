@@ -17,4 +17,4 @@ Berikut adalah 10 link e-book yang dapat langsung dibaca:
 ---
 
 ## Tugas 2: Ringkasan Pemaparan UGC
-11. [Ringkasan Pemaparan UGC dan Wawasan Baru tentang Transformasi Perpustakaan Pintar](Ringkasan_UGC_Muhammad_Taufik_Hidayat.pdf)
+11. [Ringkasan Pemaparan UGC dan Wawasan Baru tentang Transformasi Perpustakaan Pintar](Ringkasan_UGC_Muhammad%20Taufik%20Hidayat.pdf)
